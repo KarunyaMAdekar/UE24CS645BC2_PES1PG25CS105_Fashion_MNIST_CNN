@@ -1,5 +1,6 @@
 # UE24CS645BC2_PES1PG25CS105_Fashion_MNIST_CNN
-
+Course: UE24CS645BC2 - Deep Learning: Theory and Practice
+USN: PES1PG25CS105 Assignment: DLTP Assignment 1
 ## Overview
 
 This project implements a **Convolutional Neural Network (CNN) from scratch using NumPy** without using deep learning frameworks like TensorFlow or PyTorch.
