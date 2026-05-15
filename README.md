@@ -135,7 +135,7 @@ Softmax Output
 ## Step 1 — Clone Repository
 
 ```bash
-git clone https://github.com/<your-username>/UE24CS645BC2_PES1PG25CS105_Fashion_MNIST_CNN.git
+git clone https://github.com/KarunyaMAdekar/UE24CS645BC2_PES1PG25CS105_Fashion_MNIST_CNN.git
 ```
 
 ---
